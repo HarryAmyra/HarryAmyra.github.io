@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Amyra Harry
+Author: Amyra Harry
 ---
 
 During the First week of CEAMLS I met with my project leader and team members. We briefly discussed what our project consisted of to ensure everyone was on point with the project. My team members are Emmanuel and Kye. I did not get to meet Kye but I did connect with Emmanuel it was great vibes and he seems very eager to learn and help with the project. My mentors are Dr. Naja Mack, Olabsi adewumi, and Michael Adeleke they all seem very nice.
