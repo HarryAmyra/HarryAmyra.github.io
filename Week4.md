@@ -1,1 +1,2 @@
-
+In week four I completed my Figma design of what I imagined code wiz to look like. So my team and I created mockups of the actual website and presented project groups and our mentors. we received feedback on how to improve our websites and make them more user-friendly. Creating the Figma design was not hard trying to figure out what to put on each page was very hard. I didn't want to overwhelm my users but I didn't want to leave it too vague. After receiving feedback I realized that my website design was out of date and that it may not look appealing to the user's eyes. 
+Outside of the work that we did in 
