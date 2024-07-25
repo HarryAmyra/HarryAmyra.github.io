@@ -1,0 +1,2 @@
+In week 9 I was able to put dubbie next to the chat bot. I am having issues with minimizing the image of dubbie and the chatbot when you minimize the webpage screen. Dubbie gets smaller but The chatbot doesnt seem to shrink. This is a minor issue I am hoping to fix by the end of the week. 
+Another problem I am having is trying to make the api indentify key words so that it can adapt to the users learning style. I hoping to fix this issue before the final presentation. Outside of that we have started making our final presentation slides and writing our research paper.
