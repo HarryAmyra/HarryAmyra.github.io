@@ -1,4 +1,3 @@
 ## About My Mentor
 
-My mentor, Olabisi Adewuni, is an architect who is currently taking her master's in computer science at Morgan State University. 
-
+My mentor, Olabisi Adewuni, is an architect currently pursuing a master's degree in computer science at Morgan State University. Originally from Nigeria, Olabisi came to America to advance her career in both architecture and computer science. She has previously held a government position overseeing various architectural projects and has now shifted her focus to computer science. Olabisi is working towards publishing some of her recent work and is well-versed in several coding languages, including HTML, CSS, JavaScript, and Python. Additionally, she is familiar with API integration.
